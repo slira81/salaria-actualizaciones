@@ -1,1 +1,13 @@
-{"v": 2, "canal": "produccion", "version": "1.2.0", "minima": "0.0.0", "novedades": "Primera version de la edicion de produccion", "url": "https://github.com/slira81/salaria-actualizaciones/releases/download/prod-v1.2.0/Salaria.exe", "sha256": "9d9afa931065cb81c5c1c3a6f0b0da8db0f757d99eb1ee03edfbe178a1c9fb55", "tamano": 78540113, "emitido": 1794597269, "caduca": 1802373269, "firma": "TDEo3yM+VloQtYzCjPobhrz8lzkIDGPv3az9wEfYvvjjPGGMYJMvoTR2TwXjuDIsmjwcvUizdQvFZl/0KOY2Cg=="}
+{
+  "v": 2,
+  "canal": "produccion",
+  "version": "1.2.1",
+  "minima": "0.0.0",
+  "novedades": "Terminos corregidos (plan Gratis) y version legal 2026-11-3",
+  "url": "https://github.com/slira81/salaria-actualizaciones/releases/download/prod-v1.2.1/Salaria.exe",
+  "sha256": "0a1be4dbe4810c7cd5abe651536fcc68f26c2df21ed2e480b342b0aaeae6c391",
+  "tamano": 78541688,
+  "emitido": 1794857867,
+  "caduca": 1802633867,
+  "firma": "a9CUfi3yiEzWc/os4dUIEl4hGM46gl56osdNkiDzABqBCtpOqzfnyrvbR7xQJbpaqMLVEhSc0PNw+RzBk1alCQ=="
+}
