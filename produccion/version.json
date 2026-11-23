@@ -1,13 +1,1 @@
-{
-  "v": 2,
-  "canal": "produccion",
-  "version": "1.2.1",
-  "minima": "0.0.0",
-  "novedades": "Terminos corregidos (plan Gratis) y version legal 2026-11-3",
-  "url": "https://github.com/slira81/salaria-actualizaciones/releases/download/prod-v1.2.1/Salaria.exe",
-  "sha256": "0a1be4dbe4810c7cd5abe651536fcc68f26c2df21ed2e480b342b0aaeae6c391",
-  "tamano": 78541688,
-  "emitido": 1794857867,
-  "caduca": 1802633867,
-  "firma": "a9CUfi3yiEzWc/os4dUIEl4hGM46gl56osdNkiDzABqBCtpOqzfnyrvbR7xQJbpaqMLVEhSc0PNw+RzBk1alCQ=="
-}
+{"v":2,"canal":"produccion","version":"1.3.0","minima":"0.0.0","novedades":"Nueva identidad visual de Salaria (logo, colores, letras, iconos y pantallas). Plan Gratis: hasta 20 colaboradores y 20 empresas.","url":"https://github.com/slira81/salaria-actualizaciones/releases/download/prod-v1.3.0/Salaria.exe","sha256":"fc6c6e0f6fdd4cf500db32ba9997db8c351bca34260a06cf5dad19735057715f","tamano":83396791,"emitido":1795440936,"caduca":1803216936,"firma":"8tZo/rrEPomvAxZMO3jMQ+yk1xsBKUfB1evd3Accg2c5Nq+77NuUq5UYD8+JpYgT5TFfOJLvUVCT115N2+10BQ=="}
